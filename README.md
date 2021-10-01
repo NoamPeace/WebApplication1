@@ -3,7 +3,7 @@
 ## Installation:
 
 * Clone the repository
-* Open project in Visual Studio
+* Open project in Visual Studio as an ASP.NET Core Application
 * Restore Nugget Packages
 * Build the project
 * Publish the project to a folder
